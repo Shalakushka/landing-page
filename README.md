@@ -1,6 +1,6 @@
 # Landing Page
 
-    A webpage made to improve my skills. The project is originally from The Odin Project.
+    A [webpage](https://shalakushka.github.io/landing-page/) made to improve my skills. The project is originally from The Odin Project.
 
 ## What is it ?
 
