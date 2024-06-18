@@ -19,7 +19,7 @@ The website now looks like the design reference. However, it still needs improve
 
 ## Fun Version: Kazama Family Landing Page
 
-In addition to the original landing page, I created a fun version themed around the Kazama family from Yakuza 0. This version features content and styles inspired by the Yakuza game series. You can view this version [here](shalakushka.github.io/landing-page/yakuza/index.html).
+In addition to the original landing page, I created a fun version themed around the Kazama family from Yakuza 0. This version features content and styles inspired by the Yakuza game series. You can view this version [here](shalakushka.github.io/landing-page/yakuza/yakuza.html).
 
 ## Design References
 
