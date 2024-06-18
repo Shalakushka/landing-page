@@ -22,3 +22,7 @@ The purpose of this project is to:
 ### Fonts and Colors
 
 ![Reference](references/02.png)
+
+## Current state
+
+The website now looks like the design reference. However, it still needs improvements such as adding images and a more personalized touch.
