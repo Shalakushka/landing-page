@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: "Roboto";
+    justify-content: space-between;
+    /*height: 100vh; Might add this one to see the differences when the page will be finished*/
+}
+
+header, footer {
+    color: white;
+    height: 75px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    background-color: #85171b;
+}
+
+header {
+    justify-content: space-around;
+}
+
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+footer {
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center stretch;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.hero-section {
+    background-color: #85171b;
+    display: flex;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.hero-text {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.hero-text p {
+    color: #f9faf8ef;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+button {
+    width: 75px;
+    height: 28px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.hero-img {
+    width: 256px;
+    height: auto;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.information-section {
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+    gap: 20px;
+}
+
+.cards-container {
+    display: flex;
+    gap: 40px;
+}
+
+.card {
+    width: 175px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.card p {
+    text-align: center;
+    color: rgb(49, 49, 49);
+}
+
+.card-img {
+    border: 3px solid black;
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+}
+
+h3 {
+    color: #85171b;
+    font-size: 36px;
+    font-weight: extra-bold;
+}
+
+.quote-section {
+    height: 300px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#quote {
+    width: 50%;
+    align-self: center;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 130%;
+}
+
+#quote-author {
+    font-weight: bold;
+    align-self: center;
+    padding-left: 30%;
+}
+
+.signup-section {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.signup-block {
+    background-color: #85171b;
+    height: 100px;
+    color: white;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+
+.signup-block button {
+    border: 2px solid white;
+    background-color: #85171b;
+}
+
+.signup-text {
+    width: 400px;
+}

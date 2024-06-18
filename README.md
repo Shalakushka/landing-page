@@ -13,6 +13,14 @@ The purpose of this project is to:
 - Understand the process of translating a visual design into code.
 - Enhance problem-solving and researching skills by figuring out how to implement various design elements.
 
+## Current state
+
+The website now looks like the design reference. However, it still needs improvements such as adding images and a more personalized touch.
+
+## Fun Version: Kazama Family Landing Page
+
+In addition to the original landing page, I created a fun version themed around the Kazama family from Yakuza 0. This version features content and styles inspired by the Yakuza game series. You can view this version [here](shalakushka.github.io/landing-page/yakuza/index.html).
+
 ## Design References
 
 ### Full Design
@@ -22,7 +30,3 @@ The purpose of this project is to:
 ### Fonts and Colors
 
 ![Reference](references/02.png)
-
-## Current state
-
-The website now looks like the design reference. However, it still needs improvements such as adding images and a more personalized touch.
